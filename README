@@ -1,0 +1,5 @@
+This Resume Parser takes in a folder with multiple resumes and extracts information such as Phone Number, Email Address, Skills and Education for efficient resume reviewing.
+
+File types accepted are PDF and Docx
+
+Skills and Education is customizable to different requirements for a specific position as needed
