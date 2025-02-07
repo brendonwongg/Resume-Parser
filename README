@@ -3,3 +3,6 @@ This Resume Parser takes in a folder with multiple resumes and extracts informat
 File types accepted are PDF and Docx
 
 Skills and Education is customizable to different requirements for a specific position as needed
+
+To run:
+type "pip install -r requirements.txt" and then "py resumeParser.py" and all the resumes in the firectory named "resumes" will be processed 
